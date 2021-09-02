@@ -1,6 +1,8 @@
 # Next.js Mantine bug
 
-A repo to show a bug where Mantine would lose styles in next.js dev mode
+A repo to show a bug where [Mantine](https://mantine.dev/) would lose styles in next.js dev mode
+
+See https://github.com/mantinedev/mantine/issues/53
 
 ## To replicate the bug
 
